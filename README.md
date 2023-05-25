@@ -7,6 +7,6 @@ Espero ter ajudado
 
 # Como utilizar
 você apos baixar o projeto abra seu terminal e digite: 
-# npm i
+<h5>npm i</h5>
 após baixar todos os pacotes você pode rodar utilizando:
-# node .
+<h5> node .</h5>
